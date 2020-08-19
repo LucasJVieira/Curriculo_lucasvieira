@@ -1,41 +1,4 @@
 @charset "UTF-8";
-
-
-/* Meu CSS */
-h2{
-    text-shadow: 2px 2px 5px grey !important;
-}
-.barraesquerda{
-    background-color: #00C1B2 !important;
-    box-shadow: 2px 2px 20px grey !important;
-}
-.nome{
-     color: #00C1B2 !important;
-     text-shadow: 2px 2px 5px grey !important;
-}
-.nome1{
-     text-shadow: 2px 2px 5px grey !important;
-}
-.linkemail{
-    color: #00C1B2 !important; 
-}
-.data{
-    color: #00C1B2 !important; 
-}
-.socialicone:hover{
-    color: #00C1B2 !important;
-}
-.social-icons .social-icon:hover {
-  background-color: #00C1B2 !important;
-}
-.icones{
-    font-size: 1vh;
-}
-.subheading{
-    margin-top: 1rem !important;
-}
-
-
 /*!
 * Start Bootstrap - Resume v6.0.1 (https://startbootstrap.com/template-overviews/resume)
 * Copyright 2013-2020 Start Bootstrap
